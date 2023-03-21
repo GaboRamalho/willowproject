@@ -27,7 +27,7 @@
     "related_applications": [
       {
         "platform":"windows",
-        "url": "https://curriculo-erika-santos.netlify.app/"
+        "url": "https://hatewillowproject.netlify.app/"
       }
     ],
     "icons": [
@@ -47,7 +47,7 @@
     "shortcuts": [
       {
         "name": "index",
-        "url": "https://curriculo-erika-santos.netlify.app/",
+        "url": "https://hatewillowproject.netlify.app/",
         "description": "página inicial"
       }
     ],
